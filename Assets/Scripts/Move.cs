@@ -17,7 +17,11 @@ public class Move : MonoBehaviour
 
         if (Mouse.current.leftButton.isPressed && OnGround == 1)
         {
-            Jump();
+            rb.linearVelocity = Vector2.up * velocity;
+        }
+        else if (Keyboard.current.spaceKey.isPressed && OnGround == 1)
+        {
+            rb.linearVelocity = Vector2.up * velocity;
         }
     }
     public void OnCollisionEnter2D(Collision2D collision)
@@ -29,9 +33,5 @@ public class Move : MonoBehaviour
 
     {
         OnGround = 0;
-    }
-    public void Jump()
-    {
-        rb.linearVelocity = Vector2.up * velocity;
     }
 }

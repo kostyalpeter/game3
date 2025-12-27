@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class Levels : MonoBehaviour
 {
-    public static int Level;
+    public static int Level = 1;
 
     public void Level1()
     {

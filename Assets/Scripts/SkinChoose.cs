@@ -4,7 +4,7 @@ using UnityEngine.Jobs;
 
 public class SkinChoose : MonoBehaviour
 {
-    public static int Skin;
+    public static int Skin = 1;
     public static int Face;
     public static int Inside;
     public static int Frame;
@@ -12,14 +12,23 @@ public class SkinChoose : MonoBehaviour
     public void Skin1()
     {
         Skin = 1;
+        Inside = 0;
+        Face = 0;
+        Frame = 0;
     }
     public void Skin2()
     {
         Skin = 2;
+        Inside = 0;
+        Face = 0;
+        Frame = 0;
     }
     public void Skin3()
     {
         Skin = 3;
+        Inside = 0;
+        Face = 0;
+        Frame = 0;
     }
     public void Face1()
     {

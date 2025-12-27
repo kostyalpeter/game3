@@ -1418,12 +1418,12 @@ GameObject:
   - component: {fileID: 204397989}
   - component: {fileID: 204397991}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &204397988
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1761,12 +1761,12 @@ GameObject:
   - component: {fileID: 279729707}
   - component: {fileID: 279729709}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &279729706
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1890,6 +1890,8 @@ GameObject:
   m_Component:
   - component: {fileID: 285546720}
   - component: {fileID: 285546719}
+  - component: {fileID: 285546721}
+  - component: {fileID: 285546722}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -1909,10 +1911,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe09f76ea0c833547bfd930d30bdd429, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SkinChoose
-  Skin: 0
-  Face: 0
-  Inside: 0
-  Frame: 0
 --- !u!4 &285546720
 Transform:
   m_ObjectHideFlags: 0
@@ -1928,6 +1926,51 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &285546721
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285546718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef6fb0771ea1e814bb5a9281cb26d4dc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Choose
+  Choose1: {fileID: 829445555}
+  Choose2: {fileID: 279729705}
+  Choose3: {fileID: 1320069897}
+  Choose4: {fileID: 983622161}
+  Choose5: {fileID: 414655291}
+  Choose6: {fileID: 685690957}
+  Choose7: {fileID: 1967644001}
+  Choose8: {fileID: 1820953003}
+  Choose9: {fileID: 1166859287}
+  Choose10: {fileID: 929286604}
+  Choose11: {fileID: 204397987}
+  Choose12: {fileID: 824381948}
+  Choose13: {fileID: 824418532}
+  Choose14: {fileID: 774887970}
+  Choose15: {fileID: 1017060767}
+  Choose16: {fileID: 486214522}
+  Choose17: {fileID: 1068762367}
+  Choose18: {fileID: 372281948}
+  Choose19: {fileID: 0}
+  Choose20: {fileID: 0}
+  Choose21: {fileID: 0}
+--- !u!114 &285546722
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 285546718}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95e0fea5e58032d4591413619eb43f2c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::GameManager
 --- !u!1 &312276290
 GameObject:
   m_ObjectHideFlags: 0
@@ -2016,12 +2059,12 @@ GameObject:
   - component: {fileID: 372281950}
   - component: {fileID: 372281952}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &372281949
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2148,12 +2191,12 @@ GameObject:
   - component: {fileID: 414655293}
   - component: {fileID: 414655295}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &414655292
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2637,12 +2680,12 @@ GameObject:
   - component: {fileID: 486214524}
   - component: {fileID: 486214526}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &486214523
 RectTransform:
   m_ObjectHideFlags: 0
@@ -3480,12 +3523,12 @@ GameObject:
   - component: {fileID: 685690959}
   - component: {fileID: 685690961}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &685690958
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4008,12 +4051,12 @@ GameObject:
   - component: {fileID: 774887972}
   - component: {fileID: 774887974}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &774887971
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4404,12 +4447,12 @@ GameObject:
   - component: {fileID: 824381950}
   - component: {fileID: 824381952}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &824381949
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4536,12 +4579,12 @@ GameObject:
   - component: {fileID: 824418534}
   - component: {fileID: 824418536}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &824418533
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4668,12 +4711,12 @@ GameObject:
   - component: {fileID: 829445557}
   - component: {fileID: 829445559}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &829445556
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5421,12 +5464,12 @@ GameObject:
   - component: {fileID: 929286606}
   - component: {fileID: 929286608}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &929286605
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5760,12 +5803,12 @@ GameObject:
   - component: {fileID: 983622163}
   - component: {fileID: 983622165}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &983622162
 RectTransform:
   m_ObjectHideFlags: 0
@@ -5892,12 +5935,12 @@ GameObject:
   - component: {fileID: 1017060769}
   - component: {fileID: 1017060771}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1017060768
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6231,12 +6274,12 @@ GameObject:
   - component: {fileID: 1068762369}
   - component: {fileID: 1068762371}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1068762368
 RectTransform:
   m_ObjectHideFlags: 0
@@ -6570,12 +6613,12 @@ GameObject:
   - component: {fileID: 1166859289}
   - component: {fileID: 1166859291}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1166859288
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7098,12 +7141,12 @@ GameObject:
   - component: {fileID: 1320069899}
   - component: {fileID: 1320069901}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1320069898
 RectTransform:
   m_ObjectHideFlags: 0
@@ -8675,12 +8718,12 @@ GameObject:
   - component: {fileID: 1820953005}
   - component: {fileID: 1820953007}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1820953004
 RectTransform:
   m_ObjectHideFlags: 0
@@ -9353,12 +9396,12 @@ GameObject:
   - component: {fileID: 1967644003}
   - component: {fileID: 1967644005}
   m_Layer: 5
-  m_Name: Choosed
+  m_Name: Choosed7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1967644002
 RectTransform:
   m_ObjectHideFlags: 0

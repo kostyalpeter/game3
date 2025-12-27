@@ -152,10 +152,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 710331581}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -404, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 0, y: 0.5}
+  m_AnchorMax: {x: 0, y: 0.5}
+  m_AnchoredPosition: {x: 348, y: -260.53}
+  m_SizeDelta: {x: 430.4828, y: 179.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &429158304
 MonoBehaviour:
@@ -177,7 +177,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 259310718475131431, guid: 6624c6537e19c8745b7c046545b282cd, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -286,8 +286,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 21, y: -242}
+  m_SizeDelta: {x: 391.1824, y: 216.1157}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &496069816
 MonoBehaviour:
@@ -309,7 +309,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: -7360410922590603482, guid: 310638c123e57b34d81409d1cbc9e087, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -370,7 +370,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 496069816}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1528475042}
+        m_TargetAssemblyTypeName: EasyMap, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &504854081
 GameObject:
   m_ObjectHideFlags: 0
@@ -404,10 +416,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 710331581}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 407, y: 0}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchorMin: {x: 1, y: 0.5}
+  m_AnchorMax: {x: 1, y: 0.5}
+  m_AnchoredPosition: {x: -305, y: -242}
+  m_SizeDelta: {x: 392.9686, y: 234}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &504854083
 MonoBehaviour:
@@ -429,7 +441,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 0}
+  m_Sprite: {fileID: 2850870272962703185, guid: 0f76d4f1a376d2a469496c30dff9a171, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -697,6 +709,7 @@ GameObject:
   - component: {fileID: 1528475040}
   - component: {fileID: 1528475039}
   - component: {fileID: 1528475041}
+  - component: {fileID: 1528475042}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -743,6 +756,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9cfef652be8d7e14aa0d4ac766296e49, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::LevelsScene
+--- !u!114 &1528475042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1528475038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bebfd1d8f44fc4ea0facd4f2508e20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EasyMap
 --- !u!1 &1983207363
 GameObject:
   m_ObjectHideFlags: 0
@@ -919,8 +944,8 @@ Transform:
   m_GameObject: {fileID: 2039553528}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.034, y: -5.0931, z: 0}
-  m_LocalScale: {x: 25.326801, y: 15.918435, z: 1}
+  m_LocalPosition: {x: -0.2, y: -15.6, z: 0}
+  m_LocalScale: {x: 84.92066, y: 86.12346, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}

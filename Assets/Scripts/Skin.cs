@@ -50,7 +50,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Skin == 2)
+        if (SkinChoose.Skin == 2)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(true);
@@ -74,7 +74,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Skin == 3)
+        if (SkinChoose.Skin == 3)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -98,7 +98,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Face == 1)
+        if (SkinChoose.Face == 1)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -110,7 +110,7 @@ public class Skin : MonoBehaviour
             Face5.SetActive(false);
             Face6.SetActive(false);
         }
-        else if (SkinChoose.Face == 2)
+        if (SkinChoose.Face == 2)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -122,7 +122,7 @@ public class Skin : MonoBehaviour
             Face5.SetActive(false);
             Face6.SetActive(false);
         }
-        else if (SkinChoose.Face == 3)
+        if (SkinChoose.Face == 3)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -134,7 +134,7 @@ public class Skin : MonoBehaviour
             Face5.SetActive(false);
             Face6.SetActive(false);
         }
-        else if (SkinChoose.Face == 4)
+        if (SkinChoose.Face == 4)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -146,7 +146,7 @@ public class Skin : MonoBehaviour
             Face5.SetActive(false);
             Face6.SetActive(false);
         }
-        else if (SkinChoose.Face == 5)
+        if (SkinChoose.Face == 5)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -158,7 +158,7 @@ public class Skin : MonoBehaviour
             Face5.SetActive(true);
             Face6.SetActive(false);
         }
-        else if (SkinChoose.Face == 6)
+        if (SkinChoose.Face == 6)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -170,7 +170,7 @@ public class Skin : MonoBehaviour
             Face5.SetActive(false);
             Face6.SetActive(true);
         }
-        else if (SkinChoose.Inside == 1)
+        if (SkinChoose.Inside == 1)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -182,7 +182,7 @@ public class Skin : MonoBehaviour
             Inside5.SetActive(false);
             Inside6.SetActive(false);
         }
-        else if (SkinChoose.Inside == 2)
+        if (SkinChoose.Inside == 2)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -194,7 +194,7 @@ public class Skin : MonoBehaviour
             Inside5.SetActive(false);
             Inside6.SetActive(false);
         }
-        else if (SkinChoose.Inside == 3)
+        if (SkinChoose.Inside == 3)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -206,7 +206,7 @@ public class Skin : MonoBehaviour
             Inside5.SetActive(false);
             Inside6.SetActive(false);
         }
-        else if (SkinChoose.Inside == 4)
+        if (SkinChoose.Inside == 4)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -218,7 +218,7 @@ public class Skin : MonoBehaviour
             Inside5.SetActive(false);
             Inside6.SetActive(false);
         }
-        else if (SkinChoose.Inside == 5)
+        if (SkinChoose.Inside == 5)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -230,7 +230,7 @@ public class Skin : MonoBehaviour
             Inside5.SetActive(true);
             Inside6.SetActive(false);
         }
-        else if (SkinChoose.Inside == 6)
+        if (SkinChoose.Inside == 6)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -242,7 +242,7 @@ public class Skin : MonoBehaviour
             Inside5.SetActive(false);
             Inside6.SetActive(true);
         }
-        else if (SkinChoose.Frame == 1)
+        if (SkinChoose.Frame == 1)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -254,7 +254,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Frame == 2)
+        if (SkinChoose.Frame == 2)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -266,7 +266,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Frame == 3)
+        if (SkinChoose.Frame == 3)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -278,7 +278,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Frame == 4)
+        if (SkinChoose.Frame == 4)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -290,7 +290,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(false);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Frame == 5)
+        if (SkinChoose.Frame == 5)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);
@@ -302,7 +302,7 @@ public class Skin : MonoBehaviour
             Frame5.SetActive(true);
             Frame6.SetActive(false);
         }
-        else if (SkinChoose.Frame == 6)
+        if (SkinChoose.Frame == 6)
         {
             Skin1.SetActive(false);
             Skin2.SetActive(false);

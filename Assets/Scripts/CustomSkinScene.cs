@@ -6,5 +6,6 @@ public class CustomSkinScene : MonoBehaviour
     public void LoadScene()
     {
         SceneManager.LoadScene("CustomSkins");
+        Time.timeScale = 1f;
     }
 }

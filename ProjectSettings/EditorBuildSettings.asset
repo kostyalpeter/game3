@@ -20,6 +20,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CustomSkins.unity
     guid: eb168ede8f83cab419e36661b1fe8f07
+  - enabled: 1
+    path: Assets/Scenes/Medium.unity
+    guid: c4baf84fa996b3f4e89ca3f6326d2409
+  - enabled: 1
+    path: Assets/Scenes/Hard.unity
+    guid: d843d80382c1f59429a807877ea2e93c
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

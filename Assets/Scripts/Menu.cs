@@ -1,11 +1,10 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
-public class LevelsScene : MonoBehaviour
+public class Menu : MonoBehaviour
 {
     public void LoadScene()
     {
-        SceneManager.LoadScene("Levels");
+        SceneManager.LoadScene("Menu");
         Time.timeScale = 1f;
     }
 }

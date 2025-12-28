@@ -166,6 +166,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &8280849
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -475,6 +477,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &36332497
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -639,6 +643,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &39256929
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -803,6 +809,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &49623161
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -998,6 +1006,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &51533496
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1118,6 +1128,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &51669469
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1282,6 +1294,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &52454676
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1492,6 +1506,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &80779801
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1597,6 +1613,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &113667816
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1761,6 +1779,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &118638219
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1965,7 +1985,7 @@ Transform:
   m_GameObject: {fileID: 128452081}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.3107, y: -4.2749, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 2.683365, y: 2.74881, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2145,7 +2165,7 @@ Transform:
   m_GameObject: {fileID: 155054756}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2285,6 +2305,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &157560664
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2449,6 +2471,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &170967007
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2659,6 +2683,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &180864130
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2810,6 +2836,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &185527039
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2955,7 +2983,7 @@ Transform:
   m_GameObject: {fileID: 200267888}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.291, y: -4.31, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -3095,6 +3123,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &202965132
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3259,6 +3289,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &207263375
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3423,6 +3455,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &230653822
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3587,6 +3621,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &251439756
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3751,6 +3787,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &277983293
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4068,6 +4106,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &315906931
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4272,7 +4312,7 @@ Transform:
   m_GameObject: {fileID: 320385813}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4412,6 +4452,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &329525999
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4713,6 +4755,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &382036684
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4908,6 +4952,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &395000490
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5028,6 +5074,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &397734577
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -5466,6 +5514,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &407705064
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -5668,8 +5718,8 @@ Transform:
   m_GameObject: {fileID: 414837542}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 4.18, y: -5.4939, z: 0}
-  m_LocalScale: {x: 60.662457, y: 3.7439008, z: 1}
+  m_LocalPosition: {x: 4.1452, y: -5.4939, z: 0}
+  m_LocalScale: {x: 73.906525, y: 3.7439008, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -5857,6 +5907,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &460102618
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6198,7 +6250,7 @@ Transform:
   m_GameObject: {fileID: 567924532}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -6338,6 +6390,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &575475774
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6592,6 +6646,138 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &598340741
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 598340742}
+  - component: {fileID: 598340745}
+  - component: {fileID: 598340744}
+  - component: {fileID: 598340743}
+  m_Layer: 5
+  m_Name: Menu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &598340742
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598340741}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1431615870}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 161, y: -134}
+  m_SizeDelta: {x: 200.0112, y: 111.668}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &598340743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598340741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 598340744}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1113020608}
+        m_TargetAssemblyTypeName: Menu, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &598340744
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598340741}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -1560011928992226473, guid: 7862536b2157286498ce3cab3342bdfe, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &598340745
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 598340741}
+  m_CullTransparentMesh: 1
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -6906,6 +7092,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &702511515
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7011,6 +7199,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &780765973
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7175,6 +7365,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &800382095
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7385,6 +7577,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &804963969
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7530,7 +7724,7 @@ Transform:
   m_GameObject: {fileID: 820273944}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7670,6 +7864,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &841651515
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7834,6 +8030,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &847643703
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7998,6 +8196,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &912093396
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8162,6 +8362,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &922249814
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8372,6 +8574,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &928673539
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8477,6 +8681,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &948343269
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8681,7 +8887,7 @@ Transform:
   m_GameObject: {fileID: 957160158}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.34, y: -4.321, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 2.7192001, y: 2.919, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -8821,6 +9027,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &966771174
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9259,6 +9467,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1026624078
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9553,7 +9763,7 @@ Transform:
   m_GameObject: {fileID: 1040060190}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9678,6 +9888,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1040505834
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9897,7 +10109,7 @@ Transform:
   m_GameObject: {fileID: 1051281925}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10037,6 +10249,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1060179232
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10186,6 +10400,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1064449219
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10365,6 +10581,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1085204878
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10529,6 +10747,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1094595247
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10693,6 +10913,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1108203996
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10820,6 +11042,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1113020606}
   - component: {fileID: 1113020605}
+  - component: {fileID: 1113020607}
+  - component: {fileID: 1113020608}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -10875,6 +11099,30 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1113020607
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113020604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bebfd1d8f44fc4ea0facd4f2508e20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Maps
+--- !u!114 &1113020608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113020604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8abe67e40a4e9414092535ecba48dc4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Menu
 --- !u!1 &1117770760
 GameObject:
   m_ObjectHideFlags: 0
@@ -10922,6 +11170,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1117770763
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11086,6 +11336,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1159596979
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11250,6 +11502,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1164539716
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11414,6 +11668,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1179661008
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11731,6 +11987,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1228822728
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11935,7 +12193,7 @@ Transform:
   m_GameObject: {fileID: 1240695750}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12115,7 +12373,7 @@ Transform:
   m_GameObject: {fileID: 1278204809}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.312, y: -4.298, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12255,6 +12513,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1321243787
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12419,6 +12679,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1321531286
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12713,7 +12975,7 @@ Transform:
   m_GameObject: {fileID: 1330392564}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12853,6 +13115,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1344078079
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13017,6 +13281,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1354211711
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13134,6 +13400,138 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1397098750
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1397098751}
+  - component: {fileID: 1397098754}
+  - component: {fileID: 1397098753}
+  - component: {fileID: 1397098752}
+  m_Layer: 5
+  m_Name: Reset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1397098751
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397098750}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1431615870}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 2, y: -108.00006}
+  m_SizeDelta: {x: 347.5747, y: 151.4972}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1397098752
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397098750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 1397098753}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1113020607}
+        m_TargetAssemblyTypeName: Maps, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &1397098753
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397098750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -6851490202360253461, guid: b12667c1eebbd5943a9b5b08a993597a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1397098754
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1397098750}
+  m_CullTransparentMesh: 1
 --- !u!1 &1431228418
 GameObject:
   m_ObjectHideFlags: 0
@@ -13166,6 +13564,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1431228421
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13298,6 +13698,111 @@ Transform:
   m_Children: []
   m_Father: {fileID: 17566863}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1431615866
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1431615870}
+  - component: {fileID: 1431615869}
+  - component: {fileID: 1431615868}
+  - component: {fileID: 1431615867}
+  m_Layer: 5
+  m_Name: Canvas
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1431615867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431615866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.GraphicRaycaster
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!114 &1431615868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431615866}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.CanvasScaler
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 0
+--- !u!223 &1431615869
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431615866}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 0
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 0
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!224 &1431615870
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1431615866}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0, y: 0, z: 0}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 598340742}
+  - {fileID: 1397098751}
+  - {fileID: 1595133511}
+  - {fileID: 2047195392}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
+  m_Pivot: {x: 0, y: 0}
 --- !u!1 &1435021849
 GameObject:
   m_ObjectHideFlags: 0
@@ -13390,6 +13895,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1443739210
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13554,6 +14061,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1452223241
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13703,6 +14212,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1452459995
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13922,7 +14433,7 @@ Transform:
   m_GameObject: {fileID: 1491549039}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14102,7 +14613,7 @@ Transform:
   m_GameObject: {fileID: 1554213798}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14242,6 +14753,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1581467443
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -14359,6 +14872,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1595133510
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1595133511}
+  - component: {fileID: 1595133513}
+  - component: {fileID: 1595133512}
+  m_Layer: 5
+  m_Name: WinText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1595133511
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1595133510}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1431615870}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.7520752, y: 1.5039673}
+  m_SizeDelta: {x: 883.3344, y: 540.3134}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1595133512
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1595133510}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -3369731360536346477, guid: ae0655a5c001cea418239783e665309f, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1595133513
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1595133510}
+  m_CullTransparentMesh: 1
 --- !u!1 &1600498364
 GameObject:
   m_ObjectHideFlags: 0
@@ -14533,7 +15121,7 @@ Transform:
   m_GameObject: {fileID: 1600498364}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14586,6 +15174,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1603163157
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -14750,6 +15340,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1609464890
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -14914,6 +15506,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1614045596
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15078,6 +15672,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1615704564
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15242,6 +15838,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1644887509
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15406,6 +16004,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1659420267
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15570,6 +16170,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1691212472
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15734,6 +16336,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1707835646
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15938,7 +16542,7 @@ Transform:
   m_GameObject: {fileID: 1715586398}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16118,7 +16722,7 @@ Transform:
   m_GameObject: {fileID: 1723000000}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16455,6 +17059,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &1765992939
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16687,7 +17293,7 @@ Transform:
   m_GameObject: {fileID: 1770678220}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.31, y: -4.28, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -16877,6 +17483,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1782573266
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17041,6 +17649,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1792872116
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17205,6 +17815,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1793714923
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17368,7 +17980,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eb971c11e4b1bf74c8372b77bf65c7d5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trap
-  trap: {fileID: 0}
 --- !u!61 &1794116266
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17520,6 +18131,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1824111409
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17821,6 +18434,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1860329939
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17985,6 +18600,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1889791006
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18189,7 +18806,7 @@ Transform:
   m_GameObject: {fileID: 1892939802}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.295, y: -4.248, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -18329,6 +18946,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1917512327
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18493,6 +19112,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1930191007
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18610,6 +19231,85 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1937761486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1937761489}
+  - component: {fileID: 1937761488}
+  - component: {fileID: 1937761487}
+  m_Layer: 0
+  m_Name: EventSystem
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1937761487
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937761486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.InputSystem::UnityEngine.InputSystem.UI.InputSystemUIInputModule
+  m_SendPointerHoverToParent: 1
+  m_MoveRepeatDelay: 0.5
+  m_MoveRepeatRate: 0.1
+  m_XRTrackingOrigin: {fileID: 0}
+  m_ActionsAsset: {fileID: -944628639613478452, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_PointAction: {fileID: -1654692200621890270, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MoveAction: {fileID: -8784545083839296357, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_SubmitAction: {fileID: 392368643174621059, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_CancelAction: {fileID: 7727032971491509709, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_LeftClickAction: {fileID: 3001919216989983466, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_MiddleClickAction: {fileID: -2185481485913320682, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_RightClickAction: {fileID: -4090225696740746782, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_ScrollWheelAction: {fileID: 6240969308177333660, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDevicePositionAction: {fileID: 6564999863303420839, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_TrackedDeviceOrientationAction: {fileID: 7970375526676320489, guid: ca9f5fa95ffab41fb9a615ab714db018, type: 3}
+  m_DeselectOnBackgroundClick: 1
+  m_PointerBehavior: 0
+  m_CursorLockBehavior: 0
+  m_ScrollDeltaPerTick: 6
+--- !u!114 &1937761488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937761486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.EventSystems.EventSystem
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1937761489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1937761486}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1945337671
 GameObject:
   m_ObjectHideFlags: 0
@@ -18657,6 +19357,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1945337674
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18964,6 +19666,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1955045272}
   - component: {fileID: 1955045271}
+  - component: {fileID: 1955045273}
+  - component: {fileID: 1955045274}
   m_Layer: 0
   m_Name: winning
   m_TagString: Untagged
@@ -19038,12 +19742,61 @@ Transform:
   m_GameObject: {fileID: 1955045270}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 225.67, y: -17.55, z: 0}
+  m_LocalPosition: {x: 226.9, y: -17.55, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 17566863}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1955045273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1955045270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22f6019e06ed25740a62a34aacabf7eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Win
+  WinText: {fileID: 1595133510}
+--- !u!58 &1955045274
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1955045270}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.102448106, y: 0.24786198}
+  m_Radius: 0.26562464
 --- !u!1 &1963417990
 GameObject:
   m_ObjectHideFlags: 0
@@ -19228,6 +19981,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1971805460
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19392,6 +20147,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1972520056
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19556,6 +20313,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1977583482
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19720,6 +20479,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1979531121
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19884,6 +20645,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &1980741632
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -20094,6 +20857,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!212 &1987113324
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20199,6 +20964,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2018718149
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -20403,7 +21170,7 @@ Transform:
   m_GameObject: {fileID: 2024828657}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -9.297, y: -4.238, z: 0}
+  m_LocalPosition: {x: -3.330001, y: -4.25, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -20543,6 +21310,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2041448210
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -20707,6 +21476,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2046222756
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -20824,6 +21595,81 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2047195391
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2047195392}
+  - component: {fileID: 2047195394}
+  - component: {fileID: 2047195393}
+  m_Layer: 5
+  m_Name: DieText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &2047195392
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047195391}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1431615870}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 83}
+  m_SizeDelta: {x: 614.1268, y: 263.5858}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &2047195393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047195391}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 3612256384628365275, guid: bfd13ca909199fe4ea726d576a608d1d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &2047195394
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2047195391}
+  m_CullTransparentMesh: 1
 --- !u!1 &2053937225
 GameObject:
   m_ObjectHideFlags: 0
@@ -21024,6 +21870,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2079029856
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -21325,6 +22173,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2091276099
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -21564,6 +22414,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2100890636
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -21743,6 +22595,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2123349966
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -21907,6 +22761,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2137154167
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -22071,6 +22927,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 2047195391}
+  Restart: {fileID: 1397098750}
 --- !u!60 &2139426495
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -22218,3 +23076,5 @@ SceneRoots:
   - {fileID: 2024828659}
   - {fileID: 128452083}
   - {fileID: 1113020606}
+  - {fileID: 1431615870}
+  - {fileID: 1937761489}

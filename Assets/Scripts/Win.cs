@@ -4,7 +4,7 @@ public class Win : MonoBehaviour
 {
     public GameObject WinText;
 
-    public void OnTrigerEnter2D(Collider2D other)
+    public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Player"))
         {

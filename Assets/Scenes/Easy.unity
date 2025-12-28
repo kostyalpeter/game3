@@ -197,6 +197,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &9531783
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -434,6 +436,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!1 &16027032
 GameObject:
   m_ObjectHideFlags: 0
@@ -750,6 +754,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &27529209
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1051,6 +1057,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &44838954
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1215,6 +1223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &49943602
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1425,6 +1435,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &51533496
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1530,6 +1542,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &58381058
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1831,6 +1845,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &118953071
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2175,6 +2191,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &129569091
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2339,6 +2357,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &147765427
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -2683,6 +2703,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &155279501
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3210,6 +3232,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &252145977
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3315,6 +3339,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &255205461
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3525,6 +3551,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &271351137
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -3767,6 +3795,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &286994217
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -3931,6 +3961,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &289135308
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4275,6 +4307,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &327718387
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4485,6 +4519,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &343683756
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4636,6 +4672,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &380609709
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4741,6 +4779,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &399841087
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -4905,6 +4945,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &401544329
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -5422,6 +5464,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &455393078
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -5632,6 +5676,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &467534602
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5783,6 +5829,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &469166003
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6025,6 +6073,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &476595476
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6189,6 +6239,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &481603585
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6353,6 +6405,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &500903072
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6654,6 +6708,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &530945597
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -6864,6 +6920,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &542298259
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6969,6 +7027,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &545642417
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7403,6 +7463,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &581940824
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7651,6 +7713,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &630899264
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -7861,6 +7925,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &658341155
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7966,6 +8032,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &694204296
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8193,6 +8261,9 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1257133829}
+  - {fileID: 1996007994}
+  - {fileID: 825646551}
+  - {fileID: 814586891}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -8232,6 +8303,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &739223301
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8396,6 +8469,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &741076090
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8560,6 +8635,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &742643529
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8724,6 +8801,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &762015128
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -8888,6 +8967,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &776068444
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9052,6 +9133,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &790345272
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9216,6 +9299,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &792198192
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9348,6 +9433,138 @@ Transform:
   m_Children: []
   m_Father: {fileID: 17566863}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &814586890
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 814586891}
+  - component: {fileID: 814586894}
+  - component: {fileID: 814586893}
+  - component: {fileID: 814586892}
+  m_Layer: 5
+  m_Name: Reset
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &814586891
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814586890}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 711200619}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 2, y: -108.00006}
+  m_SizeDelta: {x: 347.5747, y: 151.4972}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &814586892
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814586890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Button
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 814586893}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 1113020608}
+        m_TargetAssemblyTypeName: Maps, Assembly-CSharp
+        m_MethodName: LoadScene
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+--- !u!114 &814586893
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814586890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -6851490202360253461, guid: b12667c1eebbd5943a9b5b08a993597a, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &814586894
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 814586890}
+  m_CullTransparentMesh: 1
 --- !u!1 &820273944
 GameObject:
   m_ObjectHideFlags: 0
@@ -9528,6 +9745,81 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.005898267, y: 0.32156837}
   m_EdgeRadius: 0
+--- !u!1 &825646550
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 825646551}
+  - component: {fileID: 825646553}
+  - component: {fileID: 825646552}
+  m_Layer: 5
+  m_Name: WinText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &825646551
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825646550}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 711200619}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.7520752, y: 1.5039673}
+  m_SizeDelta: {x: 883.3344, y: 540.3134}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &825646552
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825646550}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -3369731360536346477, guid: ae0655a5c001cea418239783e665309f, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &825646553
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 825646550}
+  m_CullTransparentMesh: 1
 --- !u!1 &909058058
 GameObject:
   m_ObjectHideFlags: 0
@@ -9560,6 +9852,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &909058061
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9724,6 +10018,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &937015941
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -9888,6 +10184,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &946728312
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10369,6 +10667,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &965194792
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10533,6 +10833,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &979641033
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10697,6 +10999,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &983966785
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -10861,6 +11165,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &984817703
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11025,6 +11331,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1006303949
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11189,6 +11497,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1016161727
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11353,6 +11663,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1023805607
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -11563,6 +11875,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &1039258509
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11848,6 +12162,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1040505834
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12192,6 +12508,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1060018979
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12335,6 +12653,7 @@ GameObject:
   - component: {fileID: 1113020606}
   - component: {fileID: 1113020605}
   - component: {fileID: 1113020607}
+  - component: {fileID: 1113020608}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -12402,6 +12721,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8abe67e40a4e9414092535ecba48dc4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Menu
+--- !u!114 &1113020608
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1113020604}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0bebfd1d8f44fc4ea0facd4f2508e20, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Maps
 --- !u!1 &1141243322
 GameObject:
   m_ObjectHideFlags: 0
@@ -12434,6 +12765,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1141243325
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12598,6 +12931,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1152124162
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12762,6 +13097,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1198313225
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12926,6 +13263,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1221574272
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13090,6 +13429,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1222258405
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13434,6 +13775,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1243431454
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13598,6 +13941,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1245624623
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13762,6 +14107,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1252953090
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -13929,7 +14276,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 156, y: -126}
+  m_AnchoredPosition: {x: 165, y: -134}
   m_SizeDelta: {x: 200.0112, y: 111.668}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1257133830
@@ -14104,6 +14451,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &1262158079
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14209,6 +14558,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1266956764
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -14736,6 +15087,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &1299589362
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14978,6 +15331,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1313432832
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15322,6 +15677,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1332635646
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15486,6 +15843,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1380798803
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15650,6 +16009,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1393851685
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -15814,6 +16175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1431228421
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -16158,6 +16521,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1529577916
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -16322,6 +16687,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1538520559
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -16983,6 +17350,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1600951793
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17193,6 +17562,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!212 &1655039468
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17298,6 +17669,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1680714417
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -17552,6 +17925,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1699888571
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18076,6 +18451,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1751980171
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18420,6 +18797,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1787934616
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -18584,6 +18963,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1857716755
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19065,6 +19446,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1921735949
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19387,6 +19770,8 @@ GameObject:
   m_Component:
   - component: {fileID: 1955045272}
   - component: {fileID: 1955045271}
+  - component: {fileID: 1955045273}
+  - component: {fileID: 1955045274}
   m_Layer: 0
   m_Name: winning
   m_TagString: Untagged
@@ -19467,6 +19852,55 @@ Transform:
   m_Children: []
   m_Father: {fileID: 17566863}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1955045273
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1955045270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22f6019e06ed25740a62a34aacabf7eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Win
+  WinText: {fileID: 825646550}
+--- !u!58 &1955045274
+CircleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1955045270}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: 0.09489163, y: 0.28199476}
+  m_Radius: 0.29046535
 --- !u!1 &1973935891
 GameObject:
   m_ObjectHideFlags: 0
@@ -19499,6 +19933,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &1973935894
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -19784,6 +20220,81 @@ Transform:
   m_Children: []
   m_Father: {fileID: 17566863}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1996007993
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1996007994}
+  - component: {fileID: 1996007996}
+  - component: {fileID: 1996007995}
+  m_Layer: 5
+  m_Name: DieText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!224 &1996007994
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996007993}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 711200619}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 83}
+  m_SizeDelta: {x: 614.1268, y: 263.5858}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1996007995
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996007993}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 3612256384628365275, guid: bfd13ca909199fe4ea726d576a608d1d, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!222 &1996007996
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1996007993}
+  m_CullTransparentMesh: 1
 --- !u!1 &2024828657
 GameObject:
   m_ObjectHideFlags: 0
@@ -19996,6 +20507,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &2039996181
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -20160,6 +20673,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Die
   killTag: KillZone
+  DieText: {fileID: 1996007993}
+  Restart: {fileID: 814586890}
 --- !u!60 &2045087404
 PolygonCollider2D:
   m_ObjectHideFlags: 0

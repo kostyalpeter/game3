@@ -23,6 +23,7 @@ public class Skin : MonoBehaviour
     public GameObject Frame4;
     public GameObject Frame5;
     public GameObject Frame6;
+    public GameObject Body;
 
     public void Start()
     {
@@ -49,6 +50,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(false);
         }
         if (SkinChoose.Skin == 2)
         {
@@ -73,6 +75,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(false);
         }
         if (SkinChoose.Skin == 3)
         {
@@ -97,6 +100,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(false);
         }
         if (SkinChoose.Face == 1)
         {
@@ -109,6 +113,7 @@ public class Skin : MonoBehaviour
             Face4.SetActive(false);
             Face5.SetActive(false);
             Face6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Face == 2)
         {
@@ -121,6 +126,7 @@ public class Skin : MonoBehaviour
             Face4.SetActive(false);
             Face5.SetActive(false);
             Face6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Face == 3)
         {
@@ -133,6 +139,7 @@ public class Skin : MonoBehaviour
             Face4.SetActive(false);
             Face5.SetActive(false);
             Face6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Face == 4)
         {
@@ -145,6 +152,7 @@ public class Skin : MonoBehaviour
             Face4.SetActive(true);
             Face5.SetActive(false);
             Face6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Face == 5)
         {
@@ -157,6 +165,7 @@ public class Skin : MonoBehaviour
             Face4.SetActive(false);
             Face5.SetActive(true);
             Face6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Face == 6)
         {
@@ -169,6 +178,7 @@ public class Skin : MonoBehaviour
             Face4.SetActive(false);
             Face5.SetActive(false);
             Face6.SetActive(true);
+            Body.SetActive(true);
         }
         if (SkinChoose.Inside == 1)
         {
@@ -181,6 +191,7 @@ public class Skin : MonoBehaviour
             Inside4.SetActive(false);
             Inside5.SetActive(false);
             Inside6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Inside == 2)
         {
@@ -193,6 +204,7 @@ public class Skin : MonoBehaviour
             Inside4.SetActive(false);
             Inside5.SetActive(false);
             Inside6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Inside == 3)
         {
@@ -205,6 +217,7 @@ public class Skin : MonoBehaviour
             Inside4.SetActive(false);
             Inside5.SetActive(false);
             Inside6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Inside == 4)
         {
@@ -217,6 +230,7 @@ public class Skin : MonoBehaviour
             Inside4.SetActive(true);
             Inside5.SetActive(false);
             Inside6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Inside == 5)
         {
@@ -229,6 +243,7 @@ public class Skin : MonoBehaviour
             Inside4.SetActive(false);
             Inside5.SetActive(true);
             Inside6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Inside == 6)
         {
@@ -241,6 +256,7 @@ public class Skin : MonoBehaviour
             Inside4.SetActive(false);
             Inside5.SetActive(false);
             Inside6.SetActive(true);
+            Body.SetActive(true);
         }
         if (SkinChoose.Frame == 1)
         {
@@ -253,6 +269,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Frame == 2)
         {
@@ -265,6 +282,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Frame == 3)
         {
@@ -277,6 +295,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Frame == 4)
         {
@@ -289,6 +308,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(true);
             Frame5.SetActive(false);
             Frame6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Frame == 5)
         {
@@ -301,6 +321,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(true);
             Frame6.SetActive(false);
+            Body.SetActive(true);
         }
         if (SkinChoose.Frame == 6)
         {
@@ -313,6 +334,7 @@ public class Skin : MonoBehaviour
             Frame4.SetActive(false);
             Frame5.SetActive(false);
             Frame6.SetActive(true);
+            Body.SetActive(true);
         }
     }
 }
